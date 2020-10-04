@@ -1,1 +1,1 @@
-# TPCHjson
+# TPC-H_JSON
